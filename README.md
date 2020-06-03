@@ -12,6 +12,4 @@ saat korban mengklik shortcut tersebut, otomatis Quiznya akan terbuka!
 Saat korban menjawab pertanyaan yang ada didalam kuis.. otomatis
 komputer korban akan ter shutdown secara otomatis.
 
-====================
-= Tidak Berbahaya! =
-====================
+Tidak Berbahaya! 
